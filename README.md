@@ -1,2 +1,2 @@
-# traffic_signs_object_detection
-Traffic singns detection model.
+# Traffic singns detection model.
+You can see example of usage in Custom_image_detection.ipynb.
